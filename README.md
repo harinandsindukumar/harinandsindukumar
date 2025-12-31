@@ -1,6 +1,16 @@
-# 💫 About Me:
-Harinand Sindukumar is a 14-year-old student from Jawahar Navodaya Vidyalaya, Idukki, Kerala, India. He is deeply passionate about using technology, creativity, and open-source principles to build tools and platforms that make learning and digital expression more accessible.<br><br>With a strong interest in AI-assisted development, Harinand works across web technologies and software development, focusing on simplicity, usability, and beginner-friendly design. He actively applies his skills to real-world projects with an emphasis on clarity, accessibility, and thoughtful problem-solving.<br><br>He is the creator of Blime, an experimental digital platform aimed at helping students express ideas and emotions through technology, and is also working on a student-focused startup initiative dedicated to supporting and empowering learners through practical, technology-driven solutions.<br><br>Harinand believes in learning by building, sharing knowledge openly, and contributing to projects that create long-term positive impact. He actively engages with open source as a way to collaborate, grow his skills, and give back to the global developer community.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=180&section=header&text=Harinand%20Sindukumar&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+<h3 align="center">🚀 Building with curiosity, clarity & open-source spirit</h3>
 
+<p align="center">
+👋 Hi, I’m <b>Harinand Sindukumar</b>, a 14-year-old student from Jawahar Navodaya Vidyalaya, Idukki, Kerala 🇮🇳  
+I’m passionate about using 💻 technology, 🎨 creativity, and 🌍 open source to make learning and digital expression more accessible.
+<br><br>
+🧠 I focus on simple, beginner-friendly solutions,  
+🛠️ learn by building real-world projects, and  
+🤝 believe in sharing knowledge openly for long-term positive impact.
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4aPRV8B8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blime.online) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harinandsindukumar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mysterious_Voice_296) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Harinand_404) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pixelmalabar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harinandsindukumarkg@gmail.com) 
@@ -23,4 +33,9 @@ Harinand Sindukumar is a 14-year-old student from Jawahar Navodaya Vidyalaya, Id
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harinandsindukumar)
+  
+  <p align="center">
+✨ Growing one contribution at a time.
+</p>
+
   
